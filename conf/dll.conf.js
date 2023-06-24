@@ -1,5 +1,4 @@
 /**
-
 函数名：TP_Configuration
 功能：动态库初始化配置，完成门锁类型选择/发卡器连接等
 @param {number} lock_type - 门锁类型(也就是使用的卡片类型): 4-RF57门锁; 5-RF50门锁
